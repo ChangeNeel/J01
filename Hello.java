@@ -1,5 +1,5 @@
 /**
- * Class Hello:
+ * Class Hello:  Revised
  *
  * Hello-world program to demonstrate BlueJ.
  */
